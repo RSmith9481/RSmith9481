@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Hallvance Tech</title>
+  <desc id="desc">A mark of quality. A step forward. IT support, websites, and workflow automation.</desc>
+  <rect width="1200" height="240" rx="16" fill="#102C46"/>
+  <path d="M0 218H1200V240H0Z" fill="#75AADB"/>
+  <path d="M1040 72L1100 120L1040 168M970 72L1030 120L970 168" fill="none" stroke="#75AADB" stroke-width="12"/>
+  <text x="56" y="88" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="45" font-weight="700">HALLVANCE TECH</text>
+  <text x="58" y="134" fill="#D6E8F7" font-family="Arial, sans-serif" font-size="25">A mark of quality. A step forward.</text>
+  <text x="58" y="183" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="21">IT support · Websites · Workflow automation</text>
+</svg>
